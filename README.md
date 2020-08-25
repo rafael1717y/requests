@@ -1,6 +1,5 @@
 # Requests
-## ==== PYTHON === ##
-## TESTE ##
+#=========#
 
 **Requests** is a simple, yet elegant HTTP library.
 
